@@ -1583,6 +1583,7 @@ class HMI:
         0xa2719a53: {"short": "TJC3224K028_011", "long": "TJC 2.8\" Enhanced 320x240",},
         0xdb7befc1: {"short": "TJC4024K032_011", "long": "TJC 3.2\" Enhanced 400x240",},
         0x04096270: {"short": "TJC4832K035_011", "long": "TJC 3.5\" Enhanced 480x240",},
+		0x4d42c540: {"short": "TJC4880X240_011C", "long": "TJC 4.0\" X2-Series 800x480",},
         0x7c1bccd9: {"short": "TJC4827K043_011", "long": "TJC 4.3\" Enhanced 480x270",},
         0x319f988b: {"short": "TJC8048K050_011", "long": "TJC 5.0\" Enhanced 800x480",},
         0xbe2d1fa4: {"short": "TJC8048K070_011", "long": "TJC 7.0\" Enhanced 800x480",},
